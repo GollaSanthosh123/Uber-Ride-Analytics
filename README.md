@@ -116,23 +116,23 @@ display them in this README using:
 ## Dashboard Preview
 
 ### Overall Analysis
-![Overall Analysis] <img width="507" height="287" alt="Screenshot 2026-07-07 094902" src="https://github.com/user-attachments/assets/03261153-16a1-4553-957d-9857546e8bd6" />
+![Overall Analysis] (<img width="507" height="287" alt="Screenshot 2026-07-07 094902" src="https://github.com/user-attachments/assets/03261153-16a1-4553-957d-9857546e8bd6" />)
 
 
 ### Vehicle Type Analysis
-![Vehicle Type Analysis]<img width="498" height="284" alt="Screenshot 2026-07-07 094921" src="https://github.com/user-attachments/assets/f304fe48-8a80-4710-9a97-e75f20189c32" />
+![Vehicle Type Analysis](<img width="498" height="284" alt="Screenshot 2026-07-07 094921" src="https://github.com/user-attachments/assets/f304fe48-8a80-4710-9a97-e75f20189c32" />)
 
 
 ### Revenue Analysis
-![Revenue Analysis]<img width="505" height="286" alt="Screenshot 2026-07-07 094941" src="https://github.com/user-attachments/assets/33ce7297-6ffb-4c10-8e79-e8997637f49a" />
+![Revenue Analysis](<img width="505" height="286" alt="Screenshot 2026-07-07 094941" src="https://github.com/user-attachments/assets/33ce7297-6ffb-4c10-8e79-e8997637f49a" />)
 
 
 ### Cancellation Analysis
-![Cancellation Analysis]<img width="503" height="281" alt="Screenshot 2026-07-07 094958" src="https://github.com/user-attachments/assets/9a42141d-334a-4767-a0b3-f2b4b7bbb051" />
+![Cancellation Analysis](<img width="503" height="281" alt="Screenshot 2026-07-07 094958" src="https://github.com/user-attachments/assets/9a42141d-334a-4767-a0b3-f2b4b7bbb051" />)
 
 
 ### Ratings Analysis
-![Ratings Analysis]<img width="506" height="280" alt="Screenshot 2026-07-07 095015" src="https://github.com/user-attachments/assets/4ad626d1-ee39-465c-aed6-8978931fb9ef" />
+![Ratings Analysis](<img width="506" height="280" alt="Screenshot 2026-07-07 095015" src="https://github.com/user-attachments/assets/4ad626d1-ee39-465c-aed6-8978931fb9ef" />)
 
 ```
 
