@@ -95,9 +95,6 @@ Uber-Ride-Analytics/
     └── Ratings_Analysis.png
 ```
 
-> The `Screenshots` folder is optional but recommended for displaying
-> dashboard previews directly on GitHub.
-
 ## How to Use the Project
 
 1.  Download or clone this repository.
@@ -106,11 +103,6 @@ Uber-Ride-Analytics/
 4.  Use the navigation buttons to move between dashboard pages.
 5.  Apply the date slicers to explore performance for selected periods.
 6.  Interact with charts and visuals to analyze specific segments.
-
-## Suggested Dashboard Preview Section
-
-After adding dashboard screenshots to a `Screenshots` folder, you can
-display them in this README using:
 
 ## Dashboard Preview
 
@@ -132,18 +124,6 @@ display them in this README using:
 
 ### Ratings Analysis
 <img width="506" height="280" alt="Screenshot 2026-07-07 095015" src="https://github.com/user-attachments/assets/4ad626d1-ee39-465c-aed6-8978931fb9ef" />
-
-## Future Improvements
-
-Possible improvements to extend this project include:
-
--   Adding peak-hour and peak-day ride analysis
--   Creating pickup and drop-location analysis
--   Adding average booking value and average ride distance KPIs
--   Performing month-over-month revenue growth analysis
--   Adding cancellation-rate trends by vehicle type
--   Building customer segmentation based on booking behavior
--   Publishing the dashboard to Power BI Service for online access
 
 ## Project Objective
 
