@@ -112,7 +112,6 @@ Uber-Ride-Analytics/
 After adding dashboard screenshots to a `Screenshots` folder, you can
 display them in this README using:
 
-``` markdown
 ## Dashboard Preview
 
 ### Overall Analysis
@@ -133,8 +132,6 @@ display them in this README using:
 
 ### Ratings Analysis
 ![Ratings Analysis](<img width="506" height="280" alt="Screenshot 2026-07-07 095015" src="https://github.com/user-attachments/assets/4ad626d1-ee39-465c-aed6-8978931fb9ef" />)
-
-```
 
 ## Future Improvements
 
